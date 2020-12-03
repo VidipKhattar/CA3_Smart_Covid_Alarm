@@ -164,7 +164,7 @@ ___
 - [Postcode Finder]([https://findthatpostcode.uk/areatypes/rgn.html])
 
 
-For the latest version of this program code, [click here](https://github.com/VidipKhattar/CA3_Smart_Alarm.git) to access the GitHub repository with the latest updated code
+For the latest version of this program code, [click here](https://github.com/VidipKhattar/CA3_Smart_Covid_Alarm.git) to access the GitHub repository with the latest updated code
 
 &copy; Vidip Khattar, University of Exeter
 
