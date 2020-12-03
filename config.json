@@ -1,0 +1,14 @@
+{
+    "weather_api":{
+        "api_key": "d352d7dd59f3d9605d7e8d0684c25868",
+        "city": "exeter"
+    },
+
+    "news_api":{
+        "api_key": "006d1900779d4a5894b7b717b7a6018b",
+        "country": "gb"
+    },
+    "covid_api":{
+        "areaCode": "areaCode=E07000041"
+    }
+}

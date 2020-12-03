@@ -1,0 +1,5 @@
+requests
+pyttsx3
+Flask
+uk_covid19
+
