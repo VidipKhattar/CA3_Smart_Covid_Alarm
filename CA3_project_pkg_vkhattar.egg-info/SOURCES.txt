@@ -1,0 +1,14 @@
+README.md
+setup.py
+CA3_code_package/__init__.py
+CA3_code_package/covid_19.py
+CA3_code_package/global_vars.py
+CA3_code_package/main.py
+CA3_code_package/news.py
+CA3_code_package/weather.py
+CA3_code_package/test/__init__.py
+CA3_code_package/test/test_app.py
+CA3_project_pkg_vkhattar.egg-info/PKG-INFO
+CA3_project_pkg_vkhattar.egg-info/SOURCES.txt
+CA3_project_pkg_vkhattar.egg-info/dependency_links.txt
+CA3_project_pkg_vkhattar.egg-info/top_level.txt
